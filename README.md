@@ -9,10 +9,10 @@ After that, simply run the app and wait. Do not interact with the browser. It ca
 
 ### 🛣️ Roadmap
 #### Dota 2
-- [x] Portrets | [download]()
-- [x] Abilities | [download]()
-- [x] Items | [download]()
-- [x] Neutral Items  | [download]()
+- [x] Portrets | [download](https://github.com/belesspathetic/icon_scraper/tree/main/img/dota2/heroes/portrets)
+- [x] Abilities | [download](https://github.com/belesspathetic/icon_scraper/tree/main/img/dota2/heroes/abilities)
+- [x] Items | [download](https://github.com/belesspathetic/icon_scraper/tree/main/img/dota2/items)
+- [x] Neutral Items  | [download](https://github.com/belesspathetic/icon_scraper/tree/main/img/dota2/neutral_items)
 
 #### Escape From Tarkov
 - [ ] - Items
